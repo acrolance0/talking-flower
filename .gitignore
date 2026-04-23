@@ -1,10 +1,1 @@
-.env
-*.mp3
-__pycache__/
-*.pyc
-.venv/
-response_*.mp3
-speak_tmp.mp3
-last_input.wav
-imgs/
-.DS_Store
+X19weWNhY2hlX18vCioucHljCi52ZW52Lwp2ZW52LwouZW52CgojIExvY2FsIGF1ZGlvIC0gZG9uJ3QgY29tbWl0IHBlcnNvbmFsIHByZXNldHMKdm9pY2UtYXNzaXN0YW50L3NvdW5kcy9wcmVzZXRzLyoKIXZvaWNlLWFzc2lzdGFudC9zb3VuZHMvcHJlc2V0cy9SRUFETUUubWQK
